@@ -552,11 +552,11 @@ var _default = (function (_Component) {
                 _react2['default'].createElement(
                   'h4',
                   null,
-                  'Coder  ',
+                  'Coder',
                   _react2['default'].createElement('span', { className: 'fa fa-gear fa-fw' }),
-                  '  Architect  ',
+                  'Architect',
                   _react2['default'].createElement('span', { className: 'fa fa-gear fa-fw' }),
-                  '  Writer'
+                  'Writer'
                 )
               )
             )
@@ -710,6 +710,26 @@ var _default = (function (_Component) {
                   book
                 );
               })
+            ),
+            _react2['default'].createElement(
+              'div',
+              { className: 'box' },
+              _react2['default'].createElement(
+                'h2',
+                null,
+                'Outside of work'
+              ),
+              _react2['default'].createElement(
+                'p',
+                null,
+                'I teach a Muay Thai Kickboxing class at the community gym. I also teach software development to middle and high school kids. And I work with the ',
+                _react2['default'].createElement(
+                  'a',
+                  { href: 'http://tcicouncil.org' },
+                  'Tri-Cities Interfaith Council'
+                ),
+                ' as their web master and on their community outreach projects.'
+              )
             ),
             _react2['default'].createElement(
               'div',

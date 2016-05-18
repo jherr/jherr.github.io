@@ -7753,6 +7753,9 @@ HOBBIES
 .fa-gear.fa-fw {
   width: auto;
   font-size: 10px;
+  vertical-align: middle;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .book {
