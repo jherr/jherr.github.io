@@ -7566,6 +7566,14 @@ EXPERIENCES
   line-height: 1.5em;
 }
 
+.job .more {
+  margin-top: 1em;
+}
+.job .more a {
+  font-size: 1.5em;
+  margin-left: 2em;
+}
+
 /*******************************************
 CONTACT
 *******************************************/
@@ -7735,6 +7743,28 @@ HOBBIES
 }
 .project a {
   font-weight: bold;
+}
+
+.contact-item .description.description-phone {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.fa-gear.fa-fw {
+  width: auto;
+  font-size: 10px;
+}
+
+.book {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+.book .title {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+.book img {
+  max-width: 100%;
 }
 
 /*******************************************
